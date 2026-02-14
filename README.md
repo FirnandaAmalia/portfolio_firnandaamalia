@@ -23,7 +23,6 @@ Hi! I am a **Data Analyst** and **UI/UX enthusiast**. This project is a personal
 ---
 
 ### 📄 Documents
-
 - [Sertifikat Leadership Program](./public/doc/LTP.png)
 - [Surat Rekomendasi Data Analyst](./public/doc/FirnandaAmalia_Surat_Rekomendasi_Keahlian_DataAnalyst_by_Karirnex.pdf)
 - [Sertifikat Panitia Code Summit](./public/doc/Panitia_Code_Summit.png)
