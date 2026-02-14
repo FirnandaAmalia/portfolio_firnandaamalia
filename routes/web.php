@@ -109,7 +109,7 @@ Route::get('/project/{id}', function ($id) {
             'category' => 'Tableau',
             'date' => '2025',
             'image' => 'https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?q=80&w=500',
-            'video_url' => asset('videos/kagglevid.mp4'), 
+            'video_url' => 'https://drive.google.com/file/d/1tdcBg0XvN43go76EaFiogOpsv2mwsX8l/view?usp=sharing',
             'overview' => 'Di project ini, Saya mengolah dataset besar dari Kaggle yang berisi riwayat gempa di Indonesia hasil rekaman BMKG dan USGS. Fokus Saya adalah mengubah ribuan baris koordinat dan angka yang rumit jadi visualisasi peta interaktif di Tableau, supaya pola bencana dan wilayah mana saja yang paling rawan secara cepat dapat dilihat.',
             'challenge' => 'Pas awal Saya pegang dataset dari Kaggle (BMKG & USGS) ini, tantangannya lumayan karena format datanya beda-beda dan strukturnya sempat berubah di tahun 2023. Masalah utamanya adalah gimana caranya ribuan baris data koordinat dan angka gempa yang masih mentah ini nggak cuma jadi tumpukan angka, tapi bisa bercerita tentang kondisi bencana di Indonesia secara akurat.',
             'solution' => 'Saya mutusin buat merapikan dulu datanya (data cleaning) supaya standar koordinat dan magnitudonya seragam semua. Terus, Saya bangun interactive dashboard di Tableau. Saya pasang fitur filter tahun dan lokasi supaya orang bisa langsung tahu, misalnya: Gempa di tahun 2020 itu paling banyak di mana? cuma dengan satu kali klik.',
