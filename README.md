@@ -22,3 +22,12 @@ Hi! I am a **Data Analyst** and **UI/UX enthusiast**. This project is a personal
 
 * **Development:** Laravel 12, PHP, Tailwind CSS
 * **Data & Design:** SQL, Excel, Tableau, Figma
+
+---
+
+### 📄 Documents
+### 📄 Documents
+* [Sertifikat Leadership Program](./public/doc/Comitee_Certificate_Leadershi_Training_Program.png)
+* [Surat Rekomendasi Data Analyst](./public/doc/FirnandaAmalia_Surat_Rekomendasi_Keahlian_DataAnalyst_by_Karirnex.pdf)
+* [Sertifikat Panitia Code Summit](./public/doc/Panitia_Code_Summit.png)
+* [Sertifikat Bootcamp Data Analyst](./public/doc/Sertifikat%20FIRNANDAAMALIA_Bootcamp_DataAnalyst_Persiapan_Kerja_Karirnex.pdf)
