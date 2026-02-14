@@ -1,5 +1,8 @@
 /node_modules
 /vendor
-/storage
-/public/img/video-mentah-lu.mp4
+/storage/framework/cache
+/storage/framework/sessions
+/storage/logs
+*.mp4
+*.zip
 .git
