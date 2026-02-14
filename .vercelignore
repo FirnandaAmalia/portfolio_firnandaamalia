@@ -3,6 +3,7 @@
 /storage/framework/cache
 /storage/framework/sessions
 /storage/logs
-*.mp4
+/bootstrap/cache/*.php
+/storage/framework/*.php
 *.zip
 .git
