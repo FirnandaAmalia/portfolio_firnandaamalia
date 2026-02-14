@@ -23,7 +23,9 @@ Hi! I am a **Data Analyst** and **UI/UX enthusiast**. This project is a personal
 ---
 
 ### 📄 Documents
+
 - [Sertifikat Leadership Program](./public/doc/LTP.png)
 - [Surat Rekomendasi Data Analyst](./public/doc/FirnandaAmalia_Surat_Rekomendasi_Keahlian_DataAnalyst_by_Karirnex.pdf)
 - [Sertifikat Panitia Code Summit](./public/doc/Panitia_Code_Summit.png)
 - [Sertifikat Bootcamp Data Analyst](./public/doc/Sertifikat%20FIRNANDAAMALIA_Bootcamp_DataAnalyst_Persiapan_Kerja_Karirnex.pdf)
+- [Sertifikat Sertifikat Internship Humanis](./public/doc/SERTIFIKAT_INTERNSHIP_HUMANIS.png)
