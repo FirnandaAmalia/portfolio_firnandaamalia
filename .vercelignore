@@ -6,5 +6,6 @@
 /storage/logs/*
 /bootstrap/cache/*.php
 /storage/framework/*.php
+*.zip
 .env
 .git
