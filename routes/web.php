@@ -93,7 +93,7 @@ Route::get('/project/{id}', function ($id) {
     'category' => 'UI/UX',
     'date' => '2025',
     'image' => asset('img/luxwellness.jpg'),
-    'video_url' => asset('videos/figma.mp4'), 
+    'video_url' => 'https://drive.google.com/file/d/1tdcBg0XvN43go76EaFiogOpsv2mwsX8l/view?usp=sharing', 
     'overview' => 'Saya merancang prototype toko vitamin online Luxwellness dengan konsep clean design. Tujuannya supaya navigasi belanja suplemen jadi lebih gampang buat user.',
     'challenge' => 'Info nutrisi vitamin itu banyak banget teksnya. Tantangannya gimana caranya biar semua info itu tetap enak dibaca di layar HP yang kecil tanpa kelihatan sumpek.',
     'solution' => 'Saya terapkan Card-Based Design dan Visual Hierarchy yang kuat di Figma. Jadi, info penting Saya tonjolin duluan dan layout-nya Saya bikin rapi supaya user gak pusing pas nyari produk.',
